@@ -1,0 +1,8 @@
+Variable Numérica,Rango,% Nulos,Media,Mediana,Moda,Varianza,Desv. Típica (Std)
+Height_(cm),91.0 a 241.0,0.0%,170.62,170.0,168.0,113.6,10.66
+Weight_(kg),24.95 a 293.02,0.0%,83.59,81.65,90.72,455.59,21.34
+BMI,12.02 a 99.33,0.0%,28.63,27.44,26.63,42.55,6.52
+Alcohol_Consumption,0.0 a 30.0,0.0%,5.1,1.0,0.0,67.25,8.2
+Fruit_Consumption,0.0 a 120.0,0.0%,29.83,30.0,30.0,618.91,24.88
+Green_Vegetables_Consumption,0.0 a 128.0,0.0%,15.11,12.0,30.0,222.81,14.93
+FriedPotato_Consumption,0.0 a 128.0,0.0%,6.3,4.0,4.0,73.68,8.58

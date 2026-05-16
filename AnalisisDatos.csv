@@ -1,0 +1,20 @@
+Columna,Tipo de dato,Nulos,Valores únicos,Rango,Respuestas (Texto)
+General_Health,object,0,5,-,"Poor, Very Good, Good, Fair, Excellent"
+Checkup,object,0,5,-,"Within the past 2 years, Within the past year, 5 or more years ago, Within the past 5 years, Never"
+Exercise,object,0,2,-,"No, Yes"
+Heart_Disease,object,0,2,-,"No, Yes"
+Skin_Cancer,object,0,2,-,"No, Yes"
+Other_Cancer,object,0,2,-,"No, Yes"
+Depression,object,0,2,-,"No, Yes"
+Diabetes,object,0,4,-,"No, Yes, No, pre-diabetes or borderline diabetes, Yes, but female told only during pregnancy"
+Arthritis,object,0,2,-,"Yes, No"
+Sex,object,0,2,-,"Female, Male"
+Age_Category,object,0,13,-,"70-74, 60-64, 75-79, 80+, 65-69, 50-54, 45-49, 18-24, 30-34, 55-59, 35-39, 40-44, 25-29"
+Height_(cm),float64,0,99,91.0 a 241.0,-
+Weight_(kg),float64,0,525,24.95 a 293.02,-
+BMI,float64,0,3654,12.02 a 99.33,-
+Smoking_History,object,0,2,-,"Yes, No"
+Alcohol_Consumption,float64,0,31,0.0 a 30.0,-
+Fruit_Consumption,float64,0,77,0.0 a 120.0,-
+Green_Vegetables_Consumption,float64,0,75,0.0 a 128.0,-
+FriedPotato_Consumption,float64,0,69,0.0 a 128.0,-
